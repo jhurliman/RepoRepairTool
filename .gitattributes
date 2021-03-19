@@ -12,6 +12,7 @@
 *.jpg  	binary
 *.png 	binary
 *.gif 	binary
+*.bag	binary
 
 *.cs text=auto diff=csharp 
 *.vb text=auto
